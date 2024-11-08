@@ -1,0 +1,1 @@
+Namespace(data_device='cuda', eval=False, images='images', model_path='C:/Users/tkdwn/Desktop/style_Gaussian/input_data/result', resolution=1, sh_degree=3, source_path='C:\\Users\\tkdwn\\Desktop\\style_Gaussian\\output_data\\mobile.2024-09-11-16-25-45.mp4\\output', white_background=False)
