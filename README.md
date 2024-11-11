@@ -1,4 +1,4 @@
-korean-style-3d-gaussian-splatting
+# korean-style-3d-gaussian-splatting
 
 [Environment]
 (PC)
