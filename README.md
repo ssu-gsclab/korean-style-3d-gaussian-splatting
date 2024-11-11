@@ -1,4 +1,4 @@
-# TEST
+korean-style-3d-gaussian-splatting
 
 [Environment]
 (PC)
