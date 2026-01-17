@@ -29,7 +29,7 @@
 
 ## 🏗 System Architecture (Data Pipeline)
 
-1)입력/오케스트레이션/전처리
+1) 입력/오케스트레이션/전처리
 
 ```mermaid
 %%{
@@ -108,7 +108,7 @@ linkStyle default stroke-width:3px,stroke:black;
 
 ```
 
-2)스타일 변환/3D 재구성/출력
+2) 스타일 변환/3D 재구성/출력
 
 ```mermaid
 %%{
