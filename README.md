@@ -239,16 +239,16 @@ linkStyle default stroke-width:3px,stroke:black;
 ## 🚀 How to Run
 프로젝트 특성상 CUDA/Visual Studio/COLMAP 등 설치가 필요합니다. 아래는 “구조를 이해하고 실행하는” 기준의 최소 안내입니다.
 1. Clone this repository.
-   ```bash
+ ```bash
   git clone https://github.com/wns5255/korean-style-3d-gaussian-splatting.git
   cd korean-style-3d-gaussian-splatting
-   ```
+ ```
 
 2. (권장) Conda 환경 준비
-   ```bash
+ ```bash
   conda create -n gaussian_splatting python=3.8 -y
   conda activate gaussian_splatting
-   ```
+ ```
 
 3. 입력 넣기
   * input_video/ 또는 input_data/에 데이터 배치
