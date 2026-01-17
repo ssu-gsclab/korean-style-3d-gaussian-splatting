@@ -259,11 +259,13 @@ linkStyle default stroke-width:3px,stroke:black;
   * VR 실행: run_vr.bat
     
 <br/>
+
 ## ⚠️ Notes
 일부 경로/환경 변수는 로컬 개발 환경 기준으로 고정되어 있을 수 있습니다.
 (포팅을 위해서는 경로를 config/env로 분리하는 리팩토링을 권장합니다.)
 
 <br/>
+
 ## ⚖️ License
 
 **Copyright (c) Soongsil University. All Rights Reserved.**
