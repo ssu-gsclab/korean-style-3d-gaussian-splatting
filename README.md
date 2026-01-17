@@ -10,7 +10,9 @@
 <br/>
 
 ## 📸 Project Showcase
-![Demo Preview]<img width="450" height="230" alt="image" src="https://github.com/user-attachments/assets/3e43e0e0-0c50-4e37-8e03-a6dade77856f" />
+<img width="450" height="230" alt="image" src="https://github.com/user-attachments/assets/3e43e0e0-0c50-4e37-8e03-a6dade77856f" />
+<img width="450" height="230" alt="image" src="https://github.com/user-attachments/assets/e0c18736-e5cc-4dfb-85f2-a6c1de59ea65" />
+
 
 
 <br/>
