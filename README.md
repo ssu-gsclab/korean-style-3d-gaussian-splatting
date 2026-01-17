@@ -12,11 +12,11 @@
 ## 📸 Project Showcase
 <img width="900" height="460" alt="image" src="https://github.com/user-attachments/assets/17d78a38-13f9-449c-b2ee-7adb140fef41" />
 
-<img width="445" height="230" alt="image" src="https://github.com/user-attachments/assets/3e43e0e0-0c50-4e37-8e03-a6dade77856f" />
-<img width="445" height="230" alt="image" src="https://github.com/user-attachments/assets/e0c18736-e5cc-4dfb-85f2-a6c1de59ea65" />
+<img width="420" height="230" alt="image" src="https://github.com/user-attachments/assets/3e43e0e0-0c50-4e37-8e03-a6dade77856f" />
+<img width="420" height="230" alt="image" src="https://github.com/user-attachments/assets/e0c18736-e5cc-4dfb-85f2-a6c1de59ea65" />
 
-<img width="445" height="230" alt="image" src="https://github.com/user-attachments/assets/d9dea2fc-bb90-4c5c-a10a-c517317532c8" />
-<img width="445" height="230" alt="image" src="https://github.com/user-attachments/assets/2f5c4bc3-e75a-4df2-9291-84bb95856f3b" />
+<img width="420" height="230" alt="image" src="https://github.com/user-attachments/assets/d9dea2fc-bb90-4c5c-a10a-c517317532c8" />
+<img width="420" height="230" alt="image" src="https://github.com/user-attachments/assets/2f5c4bc3-e75a-4df2-9291-84bb95856f3b" />
 
 
 
