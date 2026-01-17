@@ -10,8 +10,7 @@
 <br/>
 
 ## 📸 Project Showcase
-![Demo Preview](https://github.com/wns5255/unity-golf-simulator/blob/7197c9bf345286dd3f6667bdb936e360fc35f096/samples/image1%20(1).png)
-![Demo Preview](https://github.com/wns5255/unity-golf-simulator/blob/7197c9bf345286dd3f6667bdb936e360fc35f096/samples/image1%20(2).png)
+![Demo Preview](https://www.youtube.com/watch?v=FJp1RxrFSM4)
 <br/>
 
 ## 📝 Introduction
