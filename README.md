@@ -209,7 +209,7 @@ linkStyle default stroke-width:3px,stroke:black;
 ### 3. Style Transfer + 3DGS Integration
 * CycleGAN 계열 스타일 추론 결과를 후처리한 뒤, pil.py로 3DGS 입력 포맷에 맞게 리타게팅합니다.
 * COLMAP 기반 sparse 생성 후, 3DGS 학습으로 PLY/SPLAT 및 렌더 결과를 생성합니다.
-* 
+  
 <br/>
 
 ## 🧩 What I Built (기술 구현 요약)
